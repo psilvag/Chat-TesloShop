@@ -29,17 +29,13 @@ Esto le generará dos tokens uno para cada usuario y con ello puede empezar el c
 * Socket-client.io
 
 
-# Pasos previos para usar el chat de Teslo
-
-
-
 ## Levantar la aplicacion del chat en localhost
 1. Clonar el repositorio 
 2. Instalar la dependencias
 ```
 yarn install
 ```
-3. Antes de levantar la aplicacion, la API Teslo-Shop debe estar en ejecución
+3. Antes de levantar la aplicacion, la API Teslo-Shop debe estar en ejecución [API-TESLO-SHOP](https://github.com/psilvag/Teslo-shop-Nest)
 
 4. Ejecutar la aplicacion en desarrollo
 ```
